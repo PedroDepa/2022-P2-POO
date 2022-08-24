@@ -31,7 +31,7 @@ class Jugador {
             // animacion muerte
             this.estaVivo = false;
             this.vida = 0;
-            console.error('jugador murio');
+            console.error('Pablo murio');
         }
     }
 
